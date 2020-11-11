@@ -9,7 +9,11 @@ let DATA = {
   degreeName: 'B.Tech',
   major: 'Computer Science Engineering',
   technologies: ['Javascript', 'Angular', 'Node.js', 'Typescript', 'Java', 'Golang', 'Python',
-                'Hyperledger Fabric', 'HTML', 'CSS', 'SASS', 'OOP', 'Data Structure', 'REST']
+                'Hyperledger Fabric', 'HTML', 'CSS', 'SASS', 'OOP', 'Data Structure', 'REST'],
+  gender: "She/Her",
+  genderIcon: "woman",
+  emailId: "adeete09@gmail.com",
+  linkedIn: "https://www.linkedin.com/in/adeete-kashyap-656b57126"  
 };
 
 function generateReadMe() {
