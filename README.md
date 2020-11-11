@@ -1,13 +1,13 @@
-<h1 align="center">Well, Hello There. </h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center">Well, Hello There. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
 
+[![Linkedin Badge](https://img.shields.io/badge/-sakshamtaneja-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/adeete-kashyap-656b57126)
+[![Gmail Badge](https://img.shields.io/badge/-sakshamtaneja7861@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:adeete09@gmail.com)
 
 My name is Adeete. I'm Fullstack Developer with 2 experience. I hold a B.Tech degree in
 Computer Science Engineering. I consider myself a hard worker and a determined team player. 
 
-My pronouns are 
-She/Her
 
-What can i bring to the table?
+What can i bring to the table :plate_with_cutlery: ?
 <ul>
   <li>Javascript</li>
   <li>Angular</li>
