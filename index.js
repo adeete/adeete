@@ -5,7 +5,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 let DATA = {
   name: 'Adeete',
   role: 'Fullstack Developer',
-  yoe: '2',
+  yoe: 'two',
   degreeName: 'B.Tech',
   major: 'Computer Science Engineering',
   technologies: ['Javascript', 'Angular', 'Node.js', 'Typescript', 'Java', 'Golang', 'Python',
