@@ -1,0 +1,23 @@
+{
+  "name": "adeete",
+  "version": "1.0.0",
+  "description": "<!--\r **adeete/adeete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "dependencies": {
+    "mustache": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adeete/adeete.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adeete/adeete/issues"
+  },
+  "homepage": "https://github.com/adeete/adeete#readme"
+}
