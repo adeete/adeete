@@ -12,23 +12,23 @@ She&#x2F;Her :woman:
 
 What can i bring to the table :plate_with_cutlery: ?
 <ul>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Javascript</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Angular</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Node.js</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Typescript</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Java</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Golang</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Python</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Hyperledger Fabric</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">HTML</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">CSS</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">SASS</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">OOP</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">Data Structure</li>
-  <li style="list-style:none;color:white;background:#BB4430;border-radius:50%">REST</li>
+  <li>Javascript</li>
+  <li>Angular</li>
+  <li>Node.js</li>
+  <li>Typescript</li>
+  <li>Java</li>
+  <li>Golang</li>
+  <li>Python</li>
+  <li>Hyperledger Fabric</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SASS</li>
+  <li>OOP</li>
+  <li>Data Structure</li>
+  <li>REST</li>
 </ul>
 
-You can checkout my <a href="" target="_blank">portfolio</a> to know more about me.:v:
+You can checkout my <a href="https:&#x2F;&#x2F;adeete.herokuapp.com&#x2F;" target="_blank">portfolio</a> to know more about me.:v:
 
 Cheers,  <br />
 Adeete :grinning:

@@ -13,7 +13,8 @@ let DATA = {
   gender: "She/Her",
   genderIcon: "woman",
   emailId: "adeete09@gmail.com",
-  linkedIn: "https://www.linkedin.com/in/adeete-kashyap-656b57126"  
+  linkedIn: "https://www.linkedin.com/in/adeete-kashyap-656b57126",
+  portfolio: "https://adeete.herokuapp.com/"
 };
 
 function generateReadMe() {
