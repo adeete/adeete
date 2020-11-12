@@ -30,7 +30,7 @@ What can i bring to the table :plate_with_cutlery: ?
 
 You can checkout my <a href="https:&#x2F;&#x2F;adeete.herokuapp.com&#x2F;" target="_blank">portfolio</a> to know more about me.:v:
 
-Cheers,  <br />
+Cheers :clinking_glasses:,  <br />
 Adeete :grinning:
 
 
